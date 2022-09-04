@@ -94,7 +94,7 @@ const ItemCard = ({param}) => {
             <div>Total {total} Rs.</div>
         </div>
         <div className={classes.headBtns}>
-            <div><Button variant='contained'><ArrowBackIcon onClick={()=>{navigate("/")}}/></Button></div>
+            <div><Button variant='contained'><ArrowBackIcon onClick={()=>{navigate("/foddy")}}/></Button></div>
             <div><Button onClick={()=>{setCart([])}} color="success" startIcon={<DeleteForeverIcon/>} variant='outlined'>Clear Cart</Button></div>
             <div><Button onClick={()=>{navigate('/cart')}} variant='contained'><ArrowForwardIcon/></Button></div>
         </div>

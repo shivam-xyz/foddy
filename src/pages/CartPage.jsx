@@ -165,7 +165,7 @@ const CartPage = () => {
       <div className={classes.emptyCartDiv}>
         <div><img height='100%' width='100%' src={emptyCart} alt="empty cart"/></div>
         <div className={classes.emptyCartText}><strong>Cart is Empty</strong></div>
-        <div className={classes.continueShoppingButton}><Button onClick={()=>{navigate("/")}} size="large" sx={{textTransform:'none'}} variant={"contained"} >Continue Shopping</Button></div>
+        <div className={classes.continueShoppingButton}><Button onClick={()=>{navigate("/foddy")}} size="large" sx={{textTransform:'none'}} variant={"contained"} >Continue Shopping</Button></div>
       </div>
     )}
     

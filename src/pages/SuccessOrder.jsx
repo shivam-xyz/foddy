@@ -42,7 +42,7 @@ const SuccessOrder = () => {
             </div>
 
             <div className={classes.shopingBtn}>
-                <Button onClick={()=>{navigate('/')}} variant='contained'  >Continue Shopping</Button>
+                <Button onClick={()=>{navigate('/foddy')}} variant='contained'  >Continue Shopping</Button>
             </div>
         </div>
     </Container>
