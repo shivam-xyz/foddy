@@ -1,15 +1,24 @@
 {
   "files": {
     "main.css": "/foddy/static/css/main.e6c13ad2.css",
-    "main.js": "/foddy/static/js/main.39f9ae86.js",
+    "main.js": "/foddy/static/js/main.e7097abf.js",
     "static/js/787.53f81746.chunk.js": "/foddy/static/js/787.53f81746.chunk.js",
+    "static/media/bannerNew1.gif": "/foddy/static/media/bannerNew1.e2da8920398206f95c5d.gif",
+    "static/media/ava3.jpg": "/foddy/static/media/ava3.d8dbc073027935e1afac.jpg",
     "static/media/cart.webp": "/foddy/static/media/cart.3f94a4c09a6a5654c891.webp",
+    "static/media/99.jpg": "/foddy/static/media/99.5fefb8ed7633d25d3bbf.jpg",
+    "static/media/freeBanner.jpg": "/foddy/static/media/freeBanner.3fc8fd358dca7c56ef3d.jpg",
+    "static/media/ava6.jpg": "/foddy/static/media/ava6.bf2213453c33a2ab7a6f.jpg",
     "static/media/kadhai_paneer.jpg": "/foddy/static/media/kadhai_paneer.0922014bbf2f06cb9add.jpg",
+    "static/media/ava4.jpg": "/foddy/static/media/ava4.7a4354237b70515f65ce.jpg",
+    "static/media/avaPizza.jpg": "/foddy/static/media/avaPizza.eeeefebe0e3698868267.jpg",
     "static/media/chilli_potato.webp": "/foddy/static/media/chilli_potato.bb2d1b51f58bd945c9fa.webp",
     "static/media/manshurian.jpg": "/foddy/static/media/manshurian.a7da5045391773133af5.jpg",
+    "static/media/breakfastNew.jpg": "/foddy/static/media/breakfastNew.5be37c3dbc6474647156.jpg",
     "static/media/cooking.gif": "/foddy/static/media/cooking.1c4524a2372a56002928.gif",
     "static/media/tandoori_roti.jpg": "/foddy/static/media/tandoori_roti.30057ac5a519aad75eb0.jpg",
     "static/media/rice.jpg": "/foddy/static/media/rice.c215dcc1ede5b40698d6.jpg",
+    "static/media/ava5.jpeg": "/foddy/static/media/ava5.6200b461e80c70626b7f.jpeg",
     "static/media/chowmein.jpg": "/foddy/static/media/chowmein.935dc4299407cb8c5e05.jpg",
     "static/media/burger.jpg": "/foddy/static/media/burger.0e2d61dc36785103f002.jpg",
     "static/media/dal.jpg": "/foddy/static/media/dal.4ac975e49bbc96c21ec1.jpg",
@@ -17,11 +26,11 @@
     "static/media/success.gif": "/foddy/static/media/success.20fb71106470345ceb08.gif",
     "index.html": "/foddy/index.html",
     "main.e6c13ad2.css.map": "/foddy/static/css/main.e6c13ad2.css.map",
-    "main.39f9ae86.js.map": "/foddy/static/js/main.39f9ae86.js.map",
+    "main.e7097abf.js.map": "/foddy/static/js/main.e7097abf.js.map",
     "787.53f81746.chunk.js.map": "/foddy/static/js/787.53f81746.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.39f9ae86.js"
+    "static/js/main.e7097abf.js"
   ]
 }
